@@ -2,9 +2,9 @@
 
 Quicksort sorts the Sort.boxes using quicksort. It recursively partitions the array, thereby sorting it in nlogn time.
 
-##Ordenador de serie
+## Ordenador de serie
 
-###Enunciado:
+### Enunciado:
 
 Se tiene los siguientes requerimientos :
 
