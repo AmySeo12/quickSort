@@ -125,6 +125,6 @@ QuickSort.noRepeat= function(arr){
 $(document).ready(function(){
 
   //add event handlers to 2 buttons
-  $("#mix").click(function(){QuickSort.add()});
+  $("#add").click(function(){QuickSort.add()});
   $("#quick").click(function(){QuickSort.quicksort(0,QuickSort.boxes.length)});
 })
